@@ -13,7 +13,7 @@ const firebaseConfig = {
   projectId: "chatapp-49596",
   storageBucket: "chatapp-49596.appspot.com",
   messagingSenderId: "100649334658",
-  appId: "1:100649334658:web:6eaf0e07125472b059419b"
+  appId: "1:100649334658:web:1ee6c5c8147f7a5d59419b"
 };
 
 // Initialize Firebase
